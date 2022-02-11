@@ -1,0 +1,5 @@
+package com.amol.springbootbackend.model;
+
+public class Employee {
+
+}

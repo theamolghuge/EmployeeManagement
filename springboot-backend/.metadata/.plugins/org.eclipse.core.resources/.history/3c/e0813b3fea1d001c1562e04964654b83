@@ -1,0 +1,5 @@
+package com.amol.springbootbackend.repository;
+
+public interface EmployeeRepository {
+
+}

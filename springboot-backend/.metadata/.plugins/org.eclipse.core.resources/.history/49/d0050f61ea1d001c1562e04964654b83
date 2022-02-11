@@ -1,0 +1,10 @@
+package com.amol.springbootbackend.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.amol.springbootbackend.model.Employee;
+
+public interface EmployeeRepository extends JpaRepository<Employee, ID>{
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.amol.springbootbackend.exception;
+
+public class ResourceNotFoundException extends RuntimeException{
+
+}

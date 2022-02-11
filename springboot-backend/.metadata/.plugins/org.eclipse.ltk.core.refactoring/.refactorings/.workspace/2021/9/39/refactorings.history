@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;springboot-backend.zip_expanded&apos;" deleteContents="false" description="Delete resource &apos;springboot-backend.zip_expanded&apos;" element1="/springboot-backend.zip_expanded" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1632564001186"/>
+</session>
